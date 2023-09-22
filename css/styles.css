@@ -1,12 +1,17 @@
-.body {
-    font-family: "Roboto", sans-serif
-    color: #434455;
-    background-color: #FFFFFF;
+:root {
+    --c-primary-brand: #4D5AE5;
+    --c-pressed-state: #404BBF;
+    --c-dark: #2E2F42;
+    --c-succes: #31D0AA;
+    --c-text: #434455;
+    --c-subtle-text: #8E8F99;
+    --c-accent: #E7E9FC;
+    --c-light:#F4F4FD;
+    --c-modal-overlay: #2E2F42;
+    --c-hero-background: #2E2F42;
+    --c-white-backgound: #FFFFFF;
+    --c-modal-background: #FCFCFC;
 }
-.logo {
-    font-family: 
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+body {
+    font-family: 'Roboto', sans-serif;
 }
