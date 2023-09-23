@@ -42,13 +42,17 @@ body {
 }
 .adress-decoration {
     font-style: normal;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
 }
-.adress-decoration:hover {
-   color: #404bbf;
-}
-.adress-decoration:focus {
-    color: #404bbf;
-}
+ .header-contacts {
+     color: #434455;
+     font-size: 16px;
+     font-weight: 500;
+     text-decoration: none;
+     line-height: 1.5;
+     letter-spacing: 0.02em;
+ }
+
+ .header-contacts:hover,
+ .header-contacts:focus {
+     color: #404BBF;
+ }
