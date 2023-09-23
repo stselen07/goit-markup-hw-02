@@ -59,6 +59,9 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
+.section-decoration {
+    background-color: #2e2f42;
+}
 .order-service-button {
     background-color: #4D5AE5;
      font-family: 'Roboto', sans-serif;
