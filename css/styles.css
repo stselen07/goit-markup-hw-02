@@ -72,7 +72,20 @@ color: #404bbf;
      color: #ffffff;
      cursor: pointer;
 }
-.order-service-button:hover,
+.order-service-button:hover {
+   background-color: #404BBF;
+}
 .order-service-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
+}
+.main-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.sub-header-desk {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
