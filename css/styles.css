@@ -85,10 +85,11 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.sub-header-desk {
+.sub-header-desc {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-size: 16px;
 }
 .sub-header {
     font-weight: 500;
@@ -110,11 +111,4 @@ color: #404bbf;
 }
 .third-list-class {
     background-color: #FFFFFF;
-}
-.sub-header {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
 }
