@@ -13,6 +13,7 @@
     --c-modal-background: #FCFCFC;
 }
 body {
+    font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -24,6 +25,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
+    text-decoration: none;
 }
 .logo-studio {
     color: #2e2f42;
@@ -54,13 +56,17 @@ color: #404bbf;
 }
 .main-header {
     font-size: 56px;
+    font-weight: 700;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 .section-decoration {
-    background-color: #2e2f42;
+    background-color: #2E2F42;
+}
+.section-decoration-ways {
+    background-color: #F4F4FD;
 }
 .order-service-button {
     background-color: #4D5AE5;
@@ -102,6 +108,7 @@ color: #404bbf;
     background-color: #F4F4FD;   
 }
 .content-desc {
+    font-family: 'Roboto', sans-serif;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -123,9 +130,10 @@ color: #404bbf;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-decoration: none;
 }
 .logo-second-footer {
-    color: #f4f4fd;
+    color: #f4f4fd; 
 }
 .footer-logo-desc {
     line-height: 1.5;
